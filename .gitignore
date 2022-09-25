@@ -1,3 +1,5 @@
 main.dSYM/
-main
 .vscode/
+*.ppm
+.DS_Store
+main
